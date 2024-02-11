@@ -58,24 +58,30 @@ Cash prizes up to INR 6 lakhs/7200 USD up for grabs
 #
 **D) Evaluation metric:-** The model will be evaluated with the macro F1 score.
 
+#
+**E) Public and Private Split:-**
 
-Public and Private Split
-Test data is further divided into Public (40%) and Private (60%) data.
+✅ Test data is further divided into Public (40%) and Private (60%) data.
 
-Your initial responses will be checked and scored on the Public data. The final rankings would be based on your private score which will be published once the competition is over.
+✅ Your initial responses will be checked and scored on the Public data. 
 
-Hackathon Rules and Conditions
-The final rankings would be based on private score and model interpretability and will be published once the competition is over.
-Setting the final submission is recommended. Without a final submission, the submission corresponding to best public score will be taken as the final submission
-Use of external data is not allowed.
-Maximum no. of submissions allowed per day is 5
-Entries submitted after the contest is closed, will not be considered
-The code file pertaining to your final submission is mandatory while setting final submission
-The submitted code file must be able to reproduce the similar score to that of the final submission file.
-Throughout the hackathon, you are expected to respect fellow hackers and act with high integrity.
-Use of multiple Login IDs will lead to immediate disqualification
-Analytics Vidhya holds the right to disqualify any participant at any stage of the competition if the participant(s) are deemed to be acting fraudulently.
+✅ The final rankings would be based on your private score which will be published once the competition is over.
 
-LINK-
+#
+**F) Hackathon Rules and Conditions:-**
+
+✅ The final rankings would be based on private score and model interpretability and will be published once the competition is over.
+
+✅ Use of external data is not allowed.
+
+✅ Maximum no. of submissions allowed per day is 5
+
+✅ The code file pertaining to your final submission is mandatory while setting final submission
+
+✅ The submitted code file must be able to reproduce the similar score to that of the final submission file.
+
+# Summary
+
+**a) Competition Link:-**
 
 https://datahack.analyticsvidhya.com/contest/wns-triange-hackquest/#LeaderBoard
