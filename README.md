@@ -37,32 +37,26 @@ Cash prizes up to INR 6 lakhs/7200 USD up for grabs
 
 ✅ The sample submission file contains the format in which the user needs to submit the solution file.
 
+**C1) Dataset Description:-** Following is the dataset description of training set, test set and sample submission.
 
-Dataset Description
-Following is the dataset description of training set, test set and sample submission.
+**✔️ Training set:-** The training set contains 2 files: images folder and train.csv
 
-
-Training set
-The training set contains 2 files: images folder and train.csv
-
-The images folder contains the images which are to be used for training the model and train.csv contains the labels of each image present in the training set and data description is given below.
+✅ The images folder contains the images which are to be used for training the model and train.csv contains the labels of each image present in the training set and data description is given below.
 
 ![image](https://github.com/aniiketbarphe/Identify_Fraudulent_Vehicle_Damage_Image-WNS_Triange_Hackquest-AnalyticsVidhya_Feb2024/assets/84449238/713fe4f6-d259-44a6-b674-50985f92a0a9)
 
-Test set
-The test set contains 2 files: images folder and test.csv
+**✔️ Test set:-** The test set contains 2 files: images folder and test.csv
 
-The images folder contains the test images for which prediction is to be done and test.csv contains the unique identifiers of each image present in the test set. You will need to make predictions for each image present in the test set and data description is given below.
+✅ The images folder contains the test images for which prediction is to be done and test.csv contains the unique identifiers of each image present in the test set. You will need to make predictions for each image present in the test set and data description is given below.
 
 ![TESTIMAGE](https://github.com/aniiketbarphe/Identify_Fraudulent_Vehicle_Damage_Image-WNS_Triange_Hackquest-AnalyticsVidhya_Feb2024/assets/84449238/848e9d96-92da-4bc3-bd03-1cac2785e030)
 
-Sample Submission 
-Sample submission contains 2 columns - image_id and label and its description is given below
+**✔️ Sample Submission:-** Sample submission contains 2 columns - image_id and label and its description is given below
 
 ![SUBMIMAGE](https://github.com/aniiketbarphe/Identify_Fraudulent_Vehicle_Damage_Image-WNS_Triange_Hackquest-AnalyticsVidhya_Feb2024/assets/84449238/c9a2f010-cd59-437b-af41-871c47688375)
 
-Evaluation metric
-The model will be evaluated with the macro F1 score.
+#
+**D) Evaluation metric:-** The model will be evaluated with the macro F1 score.
 
 
 Public and Private Split
