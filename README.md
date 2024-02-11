@@ -82,6 +82,23 @@ Cash prizes up to INR 6 lakhs/7200 USD up for grabs
 
 # Summary
 
-**a) Competition Link:-**
+**a) Best Submission Score:-**
+
+**1) Public Leaderboard :-** 
+
+**2) Private Leaderboard :-** 
+#
+**b) Best Model:-**
+
+#
+**c) Competition Link:-**
 
 https://datahack.analyticsvidhya.com/contest/wns-triange-hackquest/#LeaderBoard
+
+#
+
+**d) Rank Scored:-**
+
+d1) **xx** out of **xxxx** registered participants (Private Leaderboard)
+
+d2) **xx** out of **xxxx** registered participants (Public Leaderboard)
