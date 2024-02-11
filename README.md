@@ -1,59 +1,41 @@
 # Identify_Fraudulent_Vehicle_Damage_Image-WNS_Triange_Hackquest-AnalyticsVidhya_Feb2024
 
-About the Hackathon
-The hunt for data champs just got bigger and better! 
+#
+**A) About Hackathon:-**
 
-WNS Triange Hackquest, a one-of-its-kind online analytics hackathon, is back with a new edition. Here’s an exciting opportunity for young and aspiring analytics professionals to experience challenging, real-life business scenarios and showcase your analytical acumen and problem-solving skills.
+✅ WNS Triange Hackquest, a one-of-its-kind online analytics hackathon, is back with a new edition. Here’s an exciting opportunity for young and aspiring analytics professionals to experience challenging, real-life business scenarios and showcase your analytical acumen and problem-solving skills.
 
-The stage is set for all you budding data buffs to showcase your acumen and creativity and win with insights.
+✅ WNS Triange Hackquest is a one of its kind challenge for all the young aspiring technology enthusiasts and analytics professionals. 
 
-So, are you ready? 
+**🏆🏅🥇Prizes:-**
 
-Register now to participate in the largest online hackathon yet, at WNS Triange. 
-
-
-Why should you participate?
-WNS Triange Hackquest is a one of its kind challenge for all the young aspiring technology enthusiasts and analytics professionals. Join the race by participating in the online hackathon to: 
-
-Experience real-life business scenarios, data challenges and enhance your analytical skills and application
-Compete with passionate minds from across the globe, who breathe and live data and analytics
-Get an edge with the title of being the ultimate WNS Triange Hackquest and gain industry recognition 
-Take home cash prizes up to INR 6 Lakhs/7220 USD
-
-Who should participate?
-The challenge is open for all data buffs – statisticians, data scientists, business analysts and students. 
-
-
-Prizes
 Cash prizes up to INR 6 lakhs/7200 USD up for grabs
 
-1st Prize – 3,00,000 INR/3600 USD 
-2nd Prize – 2,00,000 INR/2400 USD
-3rd Prize – 1,00,000 INR/1200 USD
+**💰1st Prize –** 3,00,000 INR/3600 USD 
 
-About WNS Triange
-WNS Triange powers business growth and innovation for 200+ global companies with Artificial Intelligence (AI), Analytics, Data and Research.  Driven by a specialized team of over 6000+ AI, Analytics, Data and Domain experts, WNS Triange helps translate data into actionable insights for impactful decision-making. Built on the pillars of consulting (Triange Consult), future-ready platforms (Triange Nxt), and domain and technology (Triange CoE), WNS Triange seamlessly blends strategy, industry-specific nuances, AI and Machine Learning (ML) operations, and intelligent cloud platforms.
+**💰2nd Prize –** 2,00,000 INR/2400 USD
 
-Driving a futuristic edge are WNS Triange’s modular cloud-based platforms and solutions leveraging advanced AI and ML to provide end-to-end integration and processing of data to actionable insights. WNS Triange leverages the combined strength of WNS’ domain expertise, co-creation labs, strategic partnerships and outcome-based engagement models.
+**💰3rd Prize –** 1,00,000 INR/1200 USD
 
+# 
+**B) Problem Statement:-**
+
+✅ Within the realm of insurance, the processing of claims related to vehicle damage stands out as a routine yet crucial responsibility. The insurance sector grapples with an ongoing dilemma in distinguishing genuine claims from deceptive ones, a situation that can result in substantial financial setbacks. The emergence of Generative AI and various stable diffusion models has contributed to a surge in the number of fraudulent claims. It has become commonplace for users to incorporate fraudulent images as components of the claim settlement process.
+
+✅ This poses a formidable challenge to insurance companies as they strive to differentiate between legitimate and deceitful claims. Deceptive claims often involve amplifying the severity of damage or fabricating entirely false claims. To curb these financial losses and uphold the integrity of their operations, insurance firms must formulate effective approaches for accurately and efficiently flagging fraudulent claims.
+
+✅ In the context of this hackathon, the WNS team invites the community to devise a robust and high-performance model utilizing computer vision techniques to classify images as either fraudulent or non-fraudulent within the context of insurance claims. By precisely identifying fraudulent images, insurance companies can evaluate the authenticity of a claim and make well-informed decisions regarding payout.
 
 #
-Problem Statement
-Within the realm of insurance, the processing of claims related to vehicle damage stands out as a routine yet crucial responsibility. The insurance sector grapples with an ongoing dilemma in distinguishing genuine claims from deceptive ones, a situation that can result in substantial financial setbacks. The emergence of Generative AI and various stable diffusion models has contributed to a surge in the number of fraudulent claims. It has become commonplace for users to incorporate fraudulent images as components of the claim settlement process.
+**C) About the Dataset:-**
 
-This poses a formidable challenge to insurance companies as they strive to differentiate between legitimate and deceitful claims. Deceptive claims often involve amplifying the severity of damage or fabricating entirely false claims. To curb these financial losses and uphold the integrity of their operations, insurance firms must formulate effective approaches for accurately and efficiently flagging fraudulent claims.
+✅ You are provided with 3 files: training set, test set and sample submission.
 
-In the context of this hackathon, the WNS team invites the community to devise a robust and high-performance model utilizing computer vision techniques to classify images as either fraudulent or non-fraudulent within the context of insurance claims. By precisely identifying fraudulent images, insurance companies can evaluate the authenticity of a claim and make well-informed decisions regarding payout.
+✅ The training set contains a diverse dataset of car images, each labeled with information being fraudulent or non fraudulent. The dataset includes images from varying lighting conditions, cluttered backgrounds, long tail distribution, and so on.
 
+✅ In the test set, you are provided with only the images and you need to predict the label as fraudulent or non fraudulent for each image present.
 
-Dataset
-You are provided with 3 files: training set, test set and sample submission.
-
-The training set contains a diverse dataset of car images, each labeled with information being fraudulent or non fraudulent. The dataset includes images from varying lighting conditions, cluttered backgrounds, long tail distribution, and so on.
-
-In the test set, you are provided with only the images and you need to predict the label as fraudulent or non fraudulent for each image present.
-
-The sample submission file contains the format in which the user needs to submit the solution file.
+✅ The sample submission file contains the format in which the user needs to submit the solution file.
 
 
 Dataset Description
